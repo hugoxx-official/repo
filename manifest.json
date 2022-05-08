@@ -1,0 +1,7 @@
+{
+    "name": "SpotifyNoPremium",
+    "description": "A cross-platform Spicetify theme which removes all Spotify ads and declutters the stock UI.",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "include": ["https://raw.githubusercontent.com/hugoxx-oficial/repo/main/adblock.js"]
+}
